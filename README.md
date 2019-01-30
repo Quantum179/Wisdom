@@ -7,3 +7,7 @@ Pense-bête de théories scientifiques
 - machine learning
   - http://www.asimovinstitute.org/neural-network-zoo/
 - informatique quantique
+- algorithmes récursifs et résolutions de récurrence (important)
+- algèbre linéaire (important)
+- mécanique quantique
+- newton 
