@@ -11,3 +11,7 @@ Pense-bête de théories scientifiques
 - algèbre linéaire (important)
 - mécanique quantique
 - newton 
+
+# Sci-Hub
+Site permettant d'avoir accès aux articles scientifiques payants 
+- https://sci-hub.se/
