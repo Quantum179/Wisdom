@@ -2,20 +2,28 @@
 Pense-bête de théories scientifiques
 
 # A ajouter 
+- informatique
+  - algo Huffman
+  - algo Diskstra
+  - algorithmes récursifs et résolutions de récurrence (important)
 - théories concernant lagrange
-- calcul diff
+- calculus
+  - équations différentielles
 - machine learning
   - http://www.asimovinstitute.org/neural-network-zoo/
 - informatique quantique
   - quantum machine learning : quantum support vector machine (Qiskit AI)
-- algorithmes récursifs et résolutions de récurrence (important)
+  - correction du bruit dans les systèmes hybrides
+  - décohérence quantique des qubits
 - algèbre linéaire (important)
   - transformations linéaires
   - vecteurs et valeurs propres
+  - applications bilinéaires
 - mécanique quantique
   - superposition, intrication, effet tunnel 
   - décohérence quantique
   - principe d'exclusion de Pauli
+  - inégalités de Bell
 - newton 
 
 # Sci-Hub
