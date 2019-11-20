@@ -15,6 +15,9 @@ Pense-bête de théories scientifiques
   - quantum machine learning : quantum support vector machine (Qiskit AI)
   - correction du bruit dans les systèmes hybrides
   - décohérence quantique des qubits
+  - variational quantum eigensolver
+
+En lire plus: https://www.lelezard.com/communique-19028010.html
 - algèbre linéaire (important)
   - transformations linéaires
   - vecteurs et valeurs propres
