@@ -27,13 +27,13 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - décohérence quantique
   - principe d'exclusion de Pauli
   - inégalités de Bell
-  - quasi particule (fermion) et excitations collection (bosons) 
+  - quasi particule (fermion) et excitations collective (bosons) 
 - newton 
 - trading
   - swing trading
   - termes importants du domaine
   - crypto trading
 
-# Sci-Hub
+# Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
 - https://sci-hub.se/
