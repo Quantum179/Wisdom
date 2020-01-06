@@ -16,6 +16,8 @@ Pense-bête de théories scientifiques
   - correction du bruit dans les systèmes hybrides
   - décohérence quantique des qubits
   - variational quantum eigensolver
+  - superdense coding protocol
+  - approche matricielle (voir livre)
 
 En lire plus: https://www.lelezard.com/communique-19028010.html
 - algèbre linéaire (important)
@@ -28,12 +30,14 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - principe d'exclusion de Pauli
   - inégalités de Bell
   - quasi particule (fermion) et excitations collective (bosons) 
+  - principe d'incertitude de Heisenberg
 - newton 
 - trading
   - swing trading
   - termes importants du domaine
   - crypto trading
-  - bid/ask price, spread, maker/taker ordres, liquidity
+  - bid/ask price, spread, 
+  - maker/taker ordres, liquidity
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
