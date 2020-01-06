@@ -16,8 +16,9 @@ Pense-bête de théories scientifiques
   - correction du bruit dans les systèmes hybrides
   - décohérence quantique des qubits
   - variational quantum eigensolver
-  - superdense coding protocol
+  - superdense coding protocol (voir livre)
   - approche matricielle (voir livre)
+  - Bell states (EPR pairs) (voir livre)
 
 En lire plus: https://www.lelezard.com/communique-19028010.html
 - algèbre linéaire (important)
