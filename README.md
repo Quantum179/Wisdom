@@ -33,7 +33,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - swing trading
   - termes importants du domaine
   - crypto trading
-  - bid/ask price, spread, spread trade
+  - bid/ask price, spread, maker/taker ordres, liquidity
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
