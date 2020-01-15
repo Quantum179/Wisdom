@@ -39,6 +39,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - crypto trading
   - bid/ask price, spread, 
   - maker/taker ordres, liquidity
+  - trading forex, CFD
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
