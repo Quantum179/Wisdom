@@ -44,3 +44,6 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
 - https://sci-hub.se/
+
+# Articles à lire
+- https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002
