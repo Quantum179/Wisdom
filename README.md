@@ -34,12 +34,14 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - principe d'incertitude de Heisenberg
 - newton 
 - trading
-  - swing trading
+  - day trading, swing trading
+  - stop loss, take profit
   - termes importants du domaine
   - crypto trading
   - bid/ask price, spread, 
   - maker/taker ordres, liquidity
   - trading forex, CFD
+  - buy/sell options
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
