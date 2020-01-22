@@ -33,6 +33,8 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - quasi particule (fermion) et excitations collective (bosons) 
   - principe d'incertitude de Heisenberg
 - newton 
+  - statique
+  - MU
 - trading
   - day trading, swing trading
   - stop loss, take profit
@@ -42,9 +44,11 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - maker/taker ordres, liquidity
   - trading forex, CFD
   - buy/sell options
-  - EMA/SMA
+  - EMA/SMA/RSI
+  - breakeven point (BEP)
   - horizontal line
   - bounce, resistance, support
+  - short sell, hedging
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
