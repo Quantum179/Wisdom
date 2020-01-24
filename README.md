@@ -51,6 +51,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - short sell, hedging
   - leverage
   - pip
+  - long/short trades
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
