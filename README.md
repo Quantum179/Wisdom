@@ -49,6 +49,8 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - horizontal line
   - bounce, resistance, support
   - short sell, hedging
+  - leverage
+  - pip
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
