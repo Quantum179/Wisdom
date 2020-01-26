@@ -53,8 +53,10 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - leverage
   - pip
   - long/short trades
-  - stock picking
+  - stock picking, stock option
   - market timing
+  - vente à découvert
+  - contrat de gré à gré
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
