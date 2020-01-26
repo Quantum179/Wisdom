@@ -59,3 +59,4 @@ Site permettant d'avoir accès aux articles scientifiques payants
 
 # Articles à lire
 - https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002
+- Wiki sur l'information quantique : https://www.quantiki.org/wiki/index
