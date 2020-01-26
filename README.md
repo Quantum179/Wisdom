@@ -12,6 +12,7 @@ Pense-bête de théories scientifiques
 - machine learning
   - http://www.asimovinstitute.org/neural-network-zoo/
 - informatique quantique
+  - wiki : https://www.quantiki.org/wiki/index
   - quantum machine learning : quantum support vector machine (Qiskit AI)
   - correction du bruit dans les systèmes hybrides
   - décohérence quantique des qubits
@@ -52,6 +53,8 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - leverage
   - pip
   - long/short trades
+  - stock picking
+  - market timing
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
@@ -59,4 +62,3 @@ Site permettant d'avoir accès aux articles scientifiques payants
 
 # Articles à lire
 - https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.91.045002
-- Wiki sur l'information quantique : https://www.quantiki.org/wiki/index
