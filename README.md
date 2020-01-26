@@ -33,7 +33,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - inégalités de Bell
   - quasi particule (fermion) et excitations collective (bosons) 
   - principe d'incertitude de Heisenberg
-  -statistique de bose-einstein (bosons), statistique de fermi-dirac (fermions)
+  - statistique de bose-einstein (bosons), statistique de fermi-dirac (fermions)
 - newton 
   - statique
   - MU
