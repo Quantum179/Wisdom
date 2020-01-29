@@ -58,7 +58,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - market timing
   - vente à découvert
   - contrat de gré à gré
-  - arbitrage
+  - carry trade / arbitrage
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
