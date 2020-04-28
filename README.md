@@ -59,7 +59,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - vente à découvert
   - contrat de gré à gré
   - carry trade / arbitrage
-  - MACD, Stoch oscillator, others indicator (check MT5 list)
+  - MACD, Stoch oscillator, others indicators (check MT5 list)
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
