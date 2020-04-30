@@ -60,6 +60,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - contrat de gré à gré
   - carry trade / arbitrage
   - MACD, Stoch oscillator, others indicators (check MT5 list)
+  - buy limit, buy stop, buy stop limit (sell too)
 
 # Sci-Hub 
 Site permettant d'avoir accès aux articles scientifiques payants 
