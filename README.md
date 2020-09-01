@@ -34,6 +34,7 @@ En lire plus: https://www.lelezard.com/communique-19028010.html
   - quasi particule (fermion) et excitations collective (bosons) 
   - principe d'incertitude de Heisenberg
   - statistique de bose-einstein (bosons), statistique de fermi-dirac (fermions)
+  - Ising form : simplification en hamiltonien
 - newton 
   - statique
   - MU
